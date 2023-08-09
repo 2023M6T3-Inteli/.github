@@ -29,5 +29,5 @@ Colaboradores internos da Dell.
 - Grupo 5
   - Link do repositório: https://github.com/2023M6T3-Inteli/Grupo-5
 
- - Grupo 6 - CloudETS
+- Grupo 6 - CloudETS
   - Link do repositório: https://github.com/2023M6T3-Inteli/Grupo-6
